@@ -1,14 +1,19 @@
-- 👋 Hi, I’m @MeRaj-Rudba
-- 👀 I’m interested in Web and Mobile Development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on real life project
-- 📫 How to reach me 
-  mrudba@gmail.com
-  
-  
-  
+### 👋 Hi, I’m @MeRaj-Rudba
 
-<!---
-MeRaj-Rudba/MeRaj-Rudba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+**Welcome to my GitHub profile!**
+
+I'm a passionate developer with a keen interest in **Full Stack Development**. Here's a bit about me:
+
+- 👀 **Interests:** Full Stack Development
+- 🌱 **Currently Learning:** SvelteKit
+- 💼 **Current Role:** Software Engineer at Transcom Limited
+- 💞️ **Looking to Collaborate:** Excited to work on real-life projects and innovative solutions
+- 📫 **Contact Me:** [mrudba@gmail.com](mailto:mrudba@gmail.com)
+
+Feel free to explore my repositories and connect with me!
+
+---
+
+Let's create something amazing together!
